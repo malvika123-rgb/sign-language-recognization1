@@ -19,7 +19,7 @@ Python · OpenCV · MediaPipe · scikit-learn · pyttsx3 · gTTS · googletrans 
 
 ## Gesture Reference
 
-All gestures used in this project — both the alphabet (A–Z) and the words (hello, thank you, yes, no, I love you) — are **custom hand signs**, collected and trained specifically for this project (not standard ASL).
+All gestures used in this project — both the alphabet (A–Z) and the words (hello, thank you, yes, no, I love you) — are **custom hand signs**, collected and trained specifically for this project (not standard ASL).you can refer ASL images for reference and make custom hand signs 
 
 ## Setup
 
